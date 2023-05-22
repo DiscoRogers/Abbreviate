@@ -15,15 +15,15 @@ Installing
 Clone the repo
 sh
 Copy code
-git clone https://github.com/your_username_/abbreviation_generator.git
+git clone https://github.com/DiscoRogers/Abbreviate.git
 Compile the code with your C++ compiler
 sh
 Copy code
-g++ -o abbreviation_generator abbreviation_generator.cpp
+g++ -o abbreviate main.cpp
 Run the code
 sh
 Copy code
-./abbreviation_generator
+./abbreviate
 Usage
 The main function contains an example of how to use the Abbreviate function:
 
